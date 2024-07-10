@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "65204d9e3d7a0d31b4bfb7a1"
+  },
+  "hoten": "Lê Tấn Lộc",
+  "namsinh": 2002,
+  "diachi": "TP.HCM",
+  "gioitinh": "Nam",
+  "taikhoan": "locne",
+  "pass": "loc123",
+  "chucvu": "Admin"
+},
+{
+  "_id": {
+    "$oid": "6520517e2c52998732dcf864"
+  },
+  "hoten": "Kim Ngọc",
+  "namsinh": 2002,
+  "diachi": "Bến Tre",
+  "gioitinh": "Nữ",
+  "taikhoan": "ngocne",
+  "pass": "ngoc123",
+  "chucvu": "Admin"
+},
+{
+  "_id": {
+    "$oid": "652ffa59ec23ee774d99c739"
+  },
+  "hoten": "Nguyen Van A",
+  "namsinh": 2002,
+  "diachi": "TP.HCM",
+  "gioitinh": "Nam",
+  "taikhoan": "ane",
+  "pass": "a123",
+  "chucvu": "Nhân viên"
+},
+{
+  "_id": {
+    "$oid": "65300b756f586bf5b5a55c04"
+  },
+  "hoten": "Nguyen Van B",
+  "namsinh": 2000,
+  "diachi": "Tp.HCM",
+  "gioitinh": "Nam",
+  "taikhoan": "b123",
+  "pass": "123456",
+  "chucvu": "Admin"
+},
+{
+  "_id": {
+    "$oid": "653015ee315d0347288a31ac"
+  },
+  "hoten": "Le Thi Kim C",
+  "namsinh": 1999,
+  "diachi": "Ben Tre",
+  "gioitinh": "Nữ",
+  "taikhoan": "kimc",
+  "pass": "kimc123",
+  "chucvu": "Nhân viên"
+}]
